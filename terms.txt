@@ -1,0 +1,2 @@
+scope resolution operator- ::
+namespace- std::cout (eg- here, std)
